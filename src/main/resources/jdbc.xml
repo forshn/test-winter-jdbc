@@ -1,0 +1,4 @@
+<jdbc>
+    <connection name="domain" driver="com.mysql.jdbc.Driver" url="jdbc:mysql://localhost:3306/testMySQLDB" user="forsh" password = "forsh"
+                patch-file="initDB.sql"/>
+</jdbc>

@@ -1,0 +1,6 @@
+ru/forsh/dao/MovieDAOimpl.class
+ru/forsh/model/Actor.class
+ru/forsh/model/Movie.class
+ru/forsh/Main.class
+ru/forsh/dao/MovieDao.class
+ru/forsh/dao/DaoFactory.class
